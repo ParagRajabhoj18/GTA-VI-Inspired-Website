@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: "GTAFont";
+    src: url("./font/GtaFont.otf");
+}
+html,body{
+    width:100%;
+    height: 100%;
+    font-family: "GTAFont";
+}
