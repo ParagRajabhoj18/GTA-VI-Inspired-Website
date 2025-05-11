@@ -1,4 +1,4 @@
-# GTA-VI-React
+# GTA-VI
 GTA VI Inspired website with animations Static Website
 
 GTA VI-Inspired Interactive Landing Page
