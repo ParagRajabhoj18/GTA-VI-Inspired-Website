@@ -75,7 +75,7 @@ function App() {
       ease: "Expo.easeInOut",
     });
 
-    const main = document.querySelector(".main");
+    const main = document.querySelector(".main")
 
     main?.addEventListener("mousemove", function (e) {
       const xMove = (e.clientX / window.innerWidth - 0.5) * 40;
